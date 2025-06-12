@@ -49,7 +49,7 @@ Para começar a desenvolver, testar ou simular nosso AUV, siga os passos abaixo.
 
 2.  **Instale as dependências:**
     ```bash
-    # (cd Terra/)
+    cd Terra/
     ```
 
 
