@@ -44,9 +44,15 @@ Para começar a desenvolver, testar ou simular nosso AUV, siga os passos abaixo.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/EquipeTerra/Terra.git](https://github.com/EquipeTerra/AUV-Project.git)
-    cd AUV-Project
+    git clone [https://github.com/EquipeTerra/Terra.git](https://github.com/EquipeTerra/Terra.git)
     ```
+
+2.  **Instale as dependências:**
+    ```bash
+    # (cd Terra/)
+    ```
+
+
 
 ---
 
