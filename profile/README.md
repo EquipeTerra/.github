@@ -5,8 +5,6 @@
 </p>
 
 <p align="center">
-  <img alt="Linguagem Principal" src="https://img.shields.io/github/languages/top/EquipeTerra/Terra-AUV?color=blueviolet">
-  <img alt="Licença" src="https://img.shields.io/github/license/EquipeTerra/Terra-AUV?color=informational">
   <a href="https://www.linkedin.com/company/terra-competition/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-terra--competition-blue?style=flat&logo=linkedin">
   </a>
@@ -31,8 +29,8 @@ Nossa arquitetura de controle e processamento é baseada em uma combinação de 
 
 * **Controle e Navegação:** ROS (Robot Operating System)
 * **Hardware Principal:** NVIDIA Jetson, Pixhawk, Raspberry Pi
-* **Linguagens:** Python, C++
-* **Simulação:** Gazebo
+* **Linguagens:** Python, C++, Makefile, Assembly
+* **Simulação:** Gazebo,Unity
 
 ---
 
@@ -40,32 +38,16 @@ Nossa arquitetura de controle e processamento é baseada em uma combinação de 
 
 Para começar a desenvolver, testar ou simular nosso AUV, siga os passos abaixo.
 
-### Pré-requisitos
 
-* Ubuntu 20.04 ou superior
-* ROS Noetic
-* Python 3.8+
-* Outras dependências (ex: `catkin_tools`, bibliotecas de visão computacional)
 
 ### Instalação
 
-1.  **Clone o repositório:**
+**Clone o repositório:**
     ```bash
-    git clone [https://github.com/EquipeTerra/AUV-Project.git](https://github.com/EquipeTerra/AUV-Project.git)
-    cd AUV-Project
+    git clone [https://github.com/EquipeTerra/Terra.git](https://github.com/EquipeTerra/Terra.git)
+    cd Terra
     ```
 
-2.  **Instale as dependências:**
-    ```bash
-    # (Adicione aqui os comandos para instalar dependências, ex: pip install -r requirements.txt)
-    ```
-
-3.  **Compile o código:**
-    ```bash
-    # (Adicione aqui os comandos de compilação, ex: catkin_make ou colcon build)
-    ```
-
----
 
 ## 📂 Estrutura do Repositório
 
