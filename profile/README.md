@@ -61,7 +61,7 @@ O projeto está organizado da seguinte forma:
 
 -   **/docs:** Documentação geral, artigos e guias do projeto.
 -   **/hardware:** Esquemas elétricos, diagramas de conexão e design de PCBs.
--   **/software:** Todo o código-fonte, organizado por pacotes ROS e módulos.
+-   **/software:** Todo o código-fonte, organizado por onde aquele código roda.
 -   **/simulations:** Mundos, modelos e arquivos de inicialização para simulação no Gazebo.
 -   **/tests:** Scripts e procedimentos para testes unitários e de integração.
 -   **/utils:** Scripts auxiliares e ferramentas úteis para o desenvolvimento.
