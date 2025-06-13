@@ -27,7 +27,6 @@ Nossa arquitetura de controle e processamento é baseada em uma combinação de 
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Controle e Navegação:** ROS (Robot Operating System)
 * **Hardware Principal:** NVIDIA Jetson, Pixhawk, Raspberry Pi
 * **Linguagens:** Python, C++, Makefile, Assembly
 * **Simulação:** Gazebo,Unity
