@@ -1,3 +1,5 @@
+"""
+"""
 from ultralytics import YOLO
 import cv2
 import numpy as np
@@ -31,7 +33,7 @@ def is_hand_open(keypoints):
     for _, (tip, pip, mcp) in fingers.items():
         if is_finger_extended(keypoints[tip], keypoints[pip], keypoints[mcp]):
             extended += 1
-    return extended >= 3  # 3 ou mais dedos = mão aberta
+    return extended >= 4 # 3 ou mais dedos = mão aberta
 
 while True:
     ret, frame = cap.read()
@@ -43,7 +45,7 @@ while True:
     for r in results:
         if r.keypoints is not None and len(r.keypoints.data) > 0:
             for kps in r.keypoints.data:
-                keypoints = kps.cpu().numpy().tolist()
+                keypoints = kps.cpu().numpy().tolist()      
                 if len(keypoints) >= 21:
                     hand_open = is_hand_open(keypoints)
                     label = "Aberta" if hand_open else "Fechada"
