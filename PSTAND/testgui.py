@@ -38,7 +38,7 @@ GREEN, BLUE  = (34, 177, 76), (0, 162, 232)
 
 # =============== CARREGAR SPRITES ===============
 
-def load_alpha(path: str):
+def load_alpha(path: str):  
     """Carrega imagem com canal alfa. Se não existir, devolve placeholder colorido."""
     try:
         return pygame.image.load(path).convert_alpha()

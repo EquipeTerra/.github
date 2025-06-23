@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://terra.joinville.ufsc.br/pt_br/">
-    <img width="900" src="https://github.com/EquipeTerra/Terra-Stand/blob/master/test.png" alt="Terra Banner">
+    <img width="900" src="https://github.com/EquipeTerra/Terra-Stand/blob/master/test.png" alt="Projeto Yvi - Terra Competition">
   </a>
 </p>
 
@@ -13,81 +13,82 @@
   </a>
 </p>
 
-# Projeto AUV - Terra Competition 🌊
+# Projeto Yvi - AUV da Terra Competition 🌊  
+*Emoguasu para, hakatu epytake yvy ápe rupi*
 
-Bem-vindo ao repositório oficial do projeto de Veículo Autônomo Submarino (AUV) da equipe **Terra Competition** da Universidade Federal de Santa Catarina (UFSC)! Aqui você encontrará todo o código-fonte, documentação e recursos relacionados ao desenvolvimento do nosso robô submarino.
+**Yvi** (do tupi-guarani, “terra”) é o nome oficial do primeiro Veículo Autônomo Submarino (AUV) desenvolvido pela equipe **Terra Competition** da Universidade Federal de Santa Catarina (UFSC) – Campus Joinville.
+
+Este repositório é o lar do **Projeto Yvi**, reunindo todo o código-fonte, documentação e recursos relacionados ao desenvolvimento do robô submarino autônomo da equipe.
+
+---
 
 ## 🎯 Visão Geral do Projeto
 
-Este projeto tem como objetivo projetar, construir e programar um AUV para competir em desafios nacionais e internacionais de robótica. O sistema foi desenvolvido para realizar tarefas complexas de navegação, manipulação de objetos e reconhecimento visual em ambiente subaquático de forma totalmente autônoma.
+O **Yvi** é um AUV projetado para participar de competições nacionais e internacionais de robótica subaquática. Seu nome representa nossa conexão com a terra e nossas raízes culturais, reforçando o compromisso com inovação e sustentabilidade.
 
-Nossa arquitetura de controle e processamento é baseada em uma combinação de **Raspberry Pi**, **Pixhawk** e **NVIDIA Jetson**, permitindo um sistema robusto e modular para lidar com os diversos desafios da operação autônoma.
+Nosso sistema foi cuidadosamente planejado para executar tarefas como navegação autônoma, reconhecimento visual e manipulação de objetos em ambientes subaquáticos, utilizando tecnologias de ponta.
+
+A arquitetura do Yvi combina o poder de processamento da **NVIDIA Jetson**, o controle da **Pixhawk** e a flexibilidade da **Raspberry Pi**, proporcionando uma plataforma robusta e modular.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Hardware Principal:** NVIDIA Jetson, Pixhawk, Raspberry Pi
-* **Linguagens:** Python, C++, Makefile, Assembly
-* **Simulação:** Gazebo,Unity
+* **Hardware Principal:** NVIDIA Jetson, Pixhawk, Raspberry Pi  
+* **Linguagens:** Python, C++, Makefile, Assembly  
+* **Simulação:** Gazebo, Unity
 
 ---
 
 ## 🚀 Começando
 
-Para começar a desenvolver, testar ou simular nosso AUV, siga os passos abaixo.
-
-
+Se você deseja simular, testar ou desenvolver no Projeto Yvi, siga os passos abaixo:
 
 ### Instalação
 
-1.  **Clone o repositório:**
+1. Clone o repositório:  
     ```bash
     git clone https://github.com/EquipeTerra/Terra.git
     ```
 
-2.  **Instale as dependências:**
+2. Acesse a pasta e instale as dependências:  
     ```bash
     cd Terra/
     ```
-
-
 
 ---
 
 ## 📂 Estrutura do Repositório
 
-O projeto está organizado da seguinte forma:
+O repositório do **Yvi** está organizado em:
 
--   **/docs:** Documentação geral, artigos e guias do projeto.
--   **/hardware:** Esquemas elétricos, diagramas de conexão e design de PCBs.
--   **/software:** Todo o código-fonte, organizado por onde aquele código roda.
--   **/simulations:** Mundos, modelos e arquivos de inicialização para simulação no Gazebo.
--   **/tests:** Scripts e procedimentos para testes unitários e de integração.
--   **/utils:** Scripts auxiliares e ferramentas úteis para o desenvolvimento.
+- **/docs:** Documentação, artigos e guias
+- **/hardware:** Esquemas elétricos e PCBs
+- **/software:** Códigos organizados por subsistema
+- **/simulations:** Ambientes e modelos para simulação
+- **/tests:** Scripts de testes unitários e integração
+- **/utils:** Ferramentas e scripts auxiliares
 
 ---
 
 ## 🙌 Como Contribuir
 
-Adoramos contribuições da comunidade! Se você deseja ajudar, por favor, siga estas etapas:
+Quer contribuir com o Projeto Yvi? Siga estes passos:
 
-1.  Faça um **Fork** deste repositório.
-2.  Crie uma nova **Branch** para sua feature (`git checkout -b feature/sua-feature`).
-3.  Faça o **Commit** de suas alterações (`git commit -m 'Adiciona sua-feature'`).
-4.  Faça o **Push** para a Branch (`git push origin feature/sua-feature`).
-5.  Abra um **Pull Request**.
+1. Faça um **Fork**
+2. Crie uma **Branch** (`git checkout -b feature/sua-feature`)
+3. Faça o **Commit** (`git commit -m 'Adiciona sua-feature'`)
+4. Faça o **Push** (`git push origin feature/sua-feature`)
+5. Abra um **Pull Request**
 
-Para mais detalhes, consulte nosso guia de contribuição (em breve).
+Nosso guia de contribuição estará disponível em breve.
 
 ---
 
 ## 📞 Contato
 
-Tem alguma dúvida ou sugestão? Entre em contato conosco!
+Ficou com dúvidas? Quer colaborar? Entre em contato:
 
-* **E-mail:** [terra.ufsc@gmail.com](mailto:terra.ufsc@gmail.com)
-* **LinkedIn:** [linkedin.com/company/terra-competition](https://www.linkedin.com/company/terra-competition/)
+* **E-mail:** [terra.ufsc@gmail.com](mailto:terra.ufsc@gmail.com)  
+* **LinkedIn:** [linkedin.com/company/terra-competition](https://www.linkedin.com/company/terra-competition/)  
 * **Site Oficial:** [terra.joinville.ufsc.br](https://terra.joinville.ufsc.br/pt_br/)
-
----
