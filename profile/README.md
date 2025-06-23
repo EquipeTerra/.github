@@ -38,34 +38,6 @@ Nossa arquitetura de controle e processamento é baseada em uma combinação de 
 Para começar a desenvolver, testar ou simular nosso AUV, siga os passos abaixo.
 
 
-
-### Instalação
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone https://github.com/EquipeTerra/Terra.git
-    ```
-
-2.  **Instale as dependências:**
-    ```bash
-    cd Terra/
-    ```
-
-
-
----
-
-## 📂 Estrutura do Repositório
-
-O projeto está organizado da seguinte forma:
-
--   **/docs:** Documentação geral, artigos e guias do projeto.
--   **/hardware:** Esquemas elétricos, diagramas de conexão e design de PCBs.
--   **/software:** Todo o código-fonte, organizado por onde aquele código roda.
--   **/simulations:** Mundos, modelos e arquivos de inicialização para simulação no Gazebo.
--   **/tests:** Scripts e procedimentos para testes unitários e de integração.
--   **/utils:** Scripts auxiliares e ferramentas úteis para o desenvolvimento.
-
 ---
 
 ## 🙌 Como Contribuir
