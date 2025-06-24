@@ -43,6 +43,14 @@ Adoramos contribuições da comunidade! Se você deseja ajudar, por favor, siga 
 4.  Faça o **Push** para a Branch (`git push origin feature/sua-feature`).
 5.  Abra um **Pull Request**.
 
+## Ou
+
+<p align="center">
+  <a href="https://terra.joinville.ufsc.br/pt_br/">
+    <img width="900" src="https://github.com/EquipeTerra/.github" alt="Terra Banner2">
+  </a>
+</p>
+
 Para mais detalhes, consulte nosso guia de contribuição (em breve).
 
 ---
