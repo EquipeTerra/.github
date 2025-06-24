@@ -47,7 +47,7 @@ Adoramos contribuições da comunidade! Se você deseja ajudar, por favor, siga 
 
 <p align="center">
   <a href="https://terra.joinville.ufsc.br/pt_br/">
-    <img width="900" src="https://github.com/EquipeTerra/.github" alt="Terra Banner2">
+    <img width="450" src="https://github.com/EquipeTerra/.github/blob/main/PSTAND/QRCodeVaquinha.png" alt="Terra Banner2">
   </a>
 </p>
 
