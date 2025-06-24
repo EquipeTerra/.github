@@ -33,13 +33,6 @@ Nossa arquitetura de controle e processamento é baseada em uma combinação de 
 
 ---
 
-## 🚀 Começando
-
-Para começar a desenvolver, testar ou simular nosso AUV, siga os passos abaixo.
-
-
----
-
 ## 🙌 Como Contribuir
 
 Adoramos contribuições da comunidade! Se você deseja ajudar, por favor, siga estas etapas:
